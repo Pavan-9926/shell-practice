@@ -4,15 +4,6 @@
 # ===================================================
 # Bash provides many built-in variables.
 
-echo "Current shell: $SHELL"
-echo "Home directory: $HOME"
-echo "Current working directory: $PWD"
-echo "User: $USER"
-echo "Script name: $0"
-echo "Number of arguments: $#"
-echo "All arguments: $@"
-echo "Process ID of current script: $$"
-
 
 echo "Current shell: $SHELL"
 echo "Home directory : $HOME"
