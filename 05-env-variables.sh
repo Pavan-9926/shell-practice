@@ -9,5 +9,3 @@ echo "Course is $course"
 
 # To verify, run: env | grep course
 
-export course="IT Management"
-echo "Course is $course"
